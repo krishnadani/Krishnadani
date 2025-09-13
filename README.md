@@ -3,17 +3,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Welcome banner"/>
 </p>
 
-# Hey, I'm Krishna 👋
+# Hey, I'm Krishna Dani👋
 
-**Full Stack Developer | Problem Solver | Competitive Programmer**
+**Frontend Developer | Problem Solver | Competitive Programmer**
 
 ---
 
 ## 🧑‍💻 About Me
 
-- Full-stack developer by day, competitive coder by night 🌙
+- Frontend developer by day, competitive coder by night 🌙
 - Passionate about building web apps, automation, and elegant solutions
-- Currently mastering JavaScript & backend wizardry
 - Always hacking, always shipping!
 
 ---
@@ -38,14 +37,6 @@
       <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
   <tr>
