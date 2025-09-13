@@ -5,13 +5,13 @@
 
 # Hey, I'm Krishna Dani 👋
 
-**Full Stack Developer | Problem Solver | Competitive Programmer** 
+**Frontend Developer | Problem Solver | Competitive Programmer** 
 
 ---
 
 ## 🧑‍💻 About Me
 
-- Full-stack developer by day, competitive coder by night 🌙
+- Frontend developer by day, competitive coder by night 🌙
 - Passionate about web apps, automation, and elegant solutions
 - Always exploring new tech and building cool stuff!
 - DSA & CP enthusiast
