@@ -80,7 +80,7 @@
     <td>
       <h4>🌐 My Portfolio Website</h4>
       <a href="https://github.com/krishnadani/portfolio-web"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://krishnadani.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
+      <a href="https://my-portfolio-website-green-alpha.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
       <br>
       <em>Showcasing my journey, projects, and passions in web development.</em>
     </td>
