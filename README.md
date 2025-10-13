@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <h4>🍲 RecipeWave</h4>
+      <h4>RecipeWave</h4>
       <a href="https://github.com/krishnadani/recipewave"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
       <a href="https://recipewave.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
       <br>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>
-      <h4>🧑‍💻 DSA-Leetcode</h4>
+      <h4>DSA-Leetcode</h4>
       <a href="https://github.com/krishnadani/DSA-Leetcode"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
       <br>
       <em>My evolving solutions to algorithmic challenges and DSA problems.</em>
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td>
-      <h4>🌐 My Portfolio Website</h4>
+      <h4>Portfolio</h4>
       <a href="https://github.com/krishnadani/portfolio-web"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
       <a href="https://my-portfolio-website-green-alpha.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
       <br>
