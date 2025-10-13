@@ -70,6 +70,15 @@
   </tr>
   <tr>
     <td>
+      <h4>WeatherNow</h4>
+      <a href="https://github.com/krishnadani/weather-now"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
+      <a href="https://weather-now-lovat-five.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
+      <br>
+      <em>check real time weather using weather now web application</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h4>🧑‍💻 DSA-Leetcode</h4>
       <a href="https://github.com/krishnadani/DSA-Leetcode"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
       <br>
