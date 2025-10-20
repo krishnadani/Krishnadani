@@ -8,7 +8,6 @@ I love coding and I am always curious to learn new tech and level up my skills.
 -   🌍  I'm based in Bengaluru, India
 -   ✉️  You can contact me at [krishnagdani@gmail.com](mailto:krishnagdani@gmail.com)
 -   👨‍💻  Visit my [portfolio](https://my-portfolio-website-green-alpha.vercel.app)
--   📝  I regularly write articles and share learnings
 -   🤝  I'm open to collaborating on any web project which is interesting and fun to work on
 -   ⚡  Fun fact: If overthinking was a sport then I would be in the hall of fame😶‍🌫️
 
