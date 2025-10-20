@@ -1,58 +1,36 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Welcome banner"/>
+<!--![Animation - 1736054663273](https://github.com/user-attachments/assets/65a14f3d-e79c-45ee-a619-a92688b3b944)-->
+# Hi!👋 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krishna Dani
+
+<h2>Frontend Developer | Problem Solver | Competitive Programmer</h2>
+
+I love coding and I am always curious to learn new tech and level up my skills.
+
+-   🌍  I'm based in Bengaluru, India
+-   ✉️  You can contact me at [krishnagdani@gmail.com](mailto:krishnagdani@gmail.com)
+-   👨‍💻  Visit my [portfolio](https://my-portfolio-website-green-alpha.vercel.app)
+-   📝  I regularly write articles and share learnings
+-   🤝  I'm open to collaborating on any web project which is interesting and fun to work on
+-   ⚡  Fun fact: If overthinking was a sport then I would be in the hall of fame😶‍🌫️
+
+### Skills
+
+#### Languages
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,java" />
 </p>
 
-# Hey, I'm Krishna Dani👋
+#### Frameworks & Frontend
 
-**Frontend Developer | Problem Solver | Competitive Programmer**
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap" />
+</p>
 
----
+#### Tools & Hosting
 
-## 🧑‍💻 About Me
-
-- Frontend developer by day, competitive coder by night 🌙
-- Passionate about building web apps, automation, and elegant solutions
-- Always hacking, always shipping!
-
----
-
-## 🔥 Tech Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Hosting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,vscode,vercel" />
+</p>
 
 ---
 
@@ -74,7 +52,7 @@
       <a href="https://github.com/krishnadani/weather-now"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
       <a href="https://weather-now-lovat-five.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
       <br>
-      <em>check real time weather using weather now web application</em>
+      <em>Check real-time weather using the WeatherNow web application.</em>
     </td>
   </tr>
   <tr>
@@ -98,35 +76,28 @@
 
 ---
 
-## 🏆 Competitive Programming
+### Socials
 
-- [DSA-Leetcode](https://github.com/krishnadani/DSA-Leetcode): My evolving solutions to algorithmic challenges.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnadani&show_icons=true&theme=radical" alt="Krishna's GitHub Stats"/>
+<p align="left">
+    <a href="https://github.com/krishnadani" target="_blank" rel="noreferrer">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+    </a>
+    <a href="https://www.linkedin.com/in/krishnagdani/" target="_blank" rel="noreferrer">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+    </a>
+    <a href="mailto:krishnagdani@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+    </a>
+    <a href="https://my-portfolio-website-green-alpha.vercel.app" target="_blank" rel="noreferrer">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" />
+    </a>
 </p>
 
----
+### My GitHub Stats
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishnagdani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:krishnagdani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  
-  <br>
-  ✨ Thanks for visiting! Let's build something awesome together. ✨
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnadani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Krishna's stats" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=krishnadani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Krishna's streak" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnadani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Top Languages" width="70%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnadani&radius=16&theme=react&area=true&order=5&hide_border=true" alt="activity-graph" />
+</div>
