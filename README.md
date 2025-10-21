@@ -16,7 +16,7 @@ I love coding and I am always curious to learn new tech and level up my skills.
 #### Languages
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,java" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,html,css,js,python,java" />
 </p>
 
 #### Frameworks & Frontend
