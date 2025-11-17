@@ -110,11 +110,16 @@ I love coding and I am always curious to learn new tech and level up my skills.
     </a>
 </p>
 
+## 🔥 GitHub Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=krishnadani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Krishna's GitHub streak stats" width="70%"/>
+</div>
+
 ### My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnadani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Krishna's stats" width="70%"/>
-  <img src="https://streak-stats.demolab.com?user=krishnadani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Krishna's streak" width="70%"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnadani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Top Languages" width="70%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnadani&radius=16&theme=react&area=true&order=5&hide_border=true" alt="activity-graph" />
 </div>
