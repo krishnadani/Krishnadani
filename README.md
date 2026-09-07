@@ -25,85 +25,117 @@ I build **full-stack web applications** with a strong focus on **Java, Spring Bo
 
 ## 🧑‍💻 Core Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ☕ Java & Backend
 
-### ☕ Java Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+</p>
 
-* Java
-* Spring
-* Spring Boot
-* Hibernate
-* JDBC
-* Servlets
-* Maven
+**Java · Spring · Spring Boot · Hibernate · JDBC · Servlets · Maven**
 
-</td>
+---
 
-<td width="50%" valign="top">
+### ⚛️ Frontend Development
 
-### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+</p>
 
-* React
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
+**React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap**
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🗄️ Databases
 
-* MySQL
-* Oracle SQL
-* SQL
-* JDBC
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+**MySQL · Oracle SQL · SQL · JDBC**
+
+---
+
+### ☁️ Cloud, Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vercel,postman,vscode,figma" />
+</p>
+
+**AWS · Git · GitHub · Docker · Vercel · Postman · VS Code · Figma**
+
+---
+
+## 🚀 Primary Technology Stack
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Backend
+
+☕
+**Java**
+
+🌱
+**Spring Boot**
+
+🔗
+**Hibernate**
+
+⚙️
+**JDBC**
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### ☁️ Cloud & Tools
+### Frontend
 
-* AWS
-* Git
-* GitHub
-* Vercel
-* Postman
-* VS Code
-* Figma
+⚛️
+**React**
+
+🟨
+**JavaScript**
+
+🎨
+**Tailwind CSS**
+
+🅱️
+**Bootstrap**
+
+</td>
+
+<td align="center" width="25%">
+
+### Database
+
+🐬
+**MySQL**
+
+🔶
+**Oracle SQL**
+
+🗃️
+**SQL**
+
+</td>
+
+<td align="center" width="25%">
+
+### Cloud
+
+☁️
+**AWS**
+
+🐳
+**Docker**
+
+🌐
+**Vercel**
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,tailwind,bootstrap,mysql,oracle,aws,git,github,docker,postman,vscode&perline=9" />
-</p>
-
----
-
-## 🎯 Primary Stack
-
-<p align="center">
-
-**Java**
-↓
-**Spring · Spring Boot · Hibernate · JDBC**
-↓
-**MySQL · Oracle SQL**
-↓
-**React · JavaScript · Tailwind CSS · Bootstrap**
-↓
-**AWS · Git · GitHub**
-
-</p>
 
 ---
 
@@ -161,7 +193,7 @@ A growing collection of solutions focused on **DSA, algorithms, complexity analy
 
 ---
 
-## 🧩 Problem Solving
+## 🧠 Problem Solving
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Structures-374151?style=for-the-badge" />
@@ -175,14 +207,20 @@ A growing collection of solutions focused on **DSA, algorithms, complexity analy
 ## 🏆 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/krishnadani?theme=dark&font=baloo&ext=heatmap" alt="Krishna Dani LeetCode Stats" />
+  <a href="https://leetcode.com/u/krishnagdani/">
+    <img
+      src="https://leetcard.jacoblin.cool/krishnagdani?theme=dark&font=baloo&ext=heatmap"
+      alt="Krishna Dani LeetCode Statistics"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/krishnadani/">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-374151?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <a href="https://leetcode.com/u/krishnagdani/">
+    <img
+      src="https://img.shields.io/badge/View_LeetCode_Profile-374151?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+      alt="View Krishna Dani LeetCode Profile"
+    />
   </a>
 </p>
 
@@ -192,13 +230,16 @@ A growing collection of solutions focused on **DSA, algorithms, complexity analy
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=krishnadani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark"
-    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=krishnadani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    height="180"
     alt="Krishna Dani GitHub Statistics"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadani&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    height="175"
+    height="180"
     alt="Krishna Dani Top Languages"
   />
 </p>
@@ -248,7 +289,7 @@ A growing collection of solutions focused on **DSA, algorithms, complexity analy
   <a href="https://www.linkedin.com/in/krishnagdani/">
     <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/krishnadani/">
+  <a href="https://leetcode.com/u/krishnagdani/">
     <img src="https://img.shields.io/badge/LeetCode-374151?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
   <a href="https://my-portfolio-website-green-alpha.vercel.app">
