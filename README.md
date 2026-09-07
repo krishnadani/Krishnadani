@@ -1,125 +1,227 @@
-<!--![Animation - 1736054663273](https://github.com/user-attachments/assets/65a14f3d-e79c-45ee-a619-a92688b3b944)-->
-# Hi!👋 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krishna Dani
+# 👋 Hi, I'm Krishna Dani
 
-<h2>Frontend Developer | Java FullStack Developer | Problem Solver | Competitive Programmer</h2>
+### Java Full Stack Developer · React Developer · Problem Solver
 
-I love coding and I am always curious to learn new tech and level up my skills.
-
--   🌍  I'm based in Bengaluru, India
--   ✉️  You can contact me at [krishnagdani@gmail.com](mailto:krishnagdani@gmail.com)
--   👨‍💻  Visit my [portfolio](https://my-portfolio-website-green-alpha.vercel.app)
--   🤝  I'm open to collaborating on any web project which is interesting and fun to work on
--   ⚡  Fun fact: If overthinking was a sport then I would be in the hall of fame😶‍🌫️
-
-### Skills
-
-#### Languages
+I build **scalable web applications** using Java, Spring Boot, React, SQL, and modern cloud technologies. I enjoy solving problems, learning new technologies, and turning ideas into practical applications.
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,html,css,js,python,java" />
+  <a href="https://github.com/krishnadani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishnagdani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-website-green-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:krishnagdani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-#### Frameworks & Frontend
+📍 Bengaluru, India
+📧 **[krishnagdani@gmail.com](mailto:krishnagdani@gmail.com)**
+🌐 **[Portfolio](https://my-portfolio-website-green-alpha.vercel.app)**
 
-<p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap" />
+---
+
+## 💻 Core Tech Stack
+
+### Backend & Java
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
-#### Tools & Hosting
+**Java · Spring · Spring Boot · Hibernate · JDBC · Servlets · Maven**
 
-<p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,vscode,vercel" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
 </p>
+
+**React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap**
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**MySQL · SQL · JDBC**
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vercel,docker" />
+</p>
+
+**AWS · Git · GitHub · Vercel · Docker**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
+</p>
+
+**Postman · VS Code · Figma**
+
+---
+
+## 🚀 What I Work With
+
+```text
+Java Full Stack
+├── Backend
+│   ├── Java
+│   ├── Spring
+│   ├── Spring Boot
+│   ├── Hibernate
+│   ├── JDBC
+│   └── Servlets
+│
+├── Frontend
+│   ├── React
+│   ├── JavaScript
+│   ├── HTML
+│   ├── CSS
+│   ├── Tailwind CSS
+│   └── Bootstrap
+│
+├── Database
+│   └── MySQL / SQL
+│
+├── Cloud
+│   └── AWS
+│
+└── Problem Solving
+    └── Data Structures & Algorithms
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-    <tr>
-    <td>
-      <h4>TrustLens</h4>
-      <a href="https://github.com/krishnadani/TrustLens"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href=""><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
-      <br>
-      <em>An AI-Based platform that helps users detect both fake and genuine reviews..</em>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <h4>EventX</h4>
-      <a href="https://github.com/krishnadani/EventX"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href=""><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
-      <br>
-      <em>A Event Registration System that helps user create events, upload fliers, share public registration links, manage attendees, and automatically send tickets via email. </em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>RecipeWave</h4>
-      <a href="https://github.com/krishnadani/recipewave"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://recipewave.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
-      <br>
-      <em>Discover, share, and organize your favorite recipes. Simple, social, and delicious!</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>WeatherNow</h4>
-      <a href="https://github.com/krishnadani/weather-now"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://weather-now-lovat-five.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
-      <br>
-      <em>Check real-time weather using the WeatherNow web application.</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>DSA-Leetcode</h4>
-      <a href="https://github.com/krishnadani/DSA-Leetcode"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <br>
-      <em>My evolving solutions to algorithmic challenges and DSA problems.</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>Portfolio</h4>
-      <a href="https://github.com/krishnadani/portfolio-web"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-      <a href="https://my-portfolio-website-green-alpha.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge"/></a>
-      <br>
-      <em>Showcasing my journey, projects, and passions in web development.</em>
-    </td>
-  </tr>
-</table>
+### 🔍 TrustLens
+
+**AI-Based Fake Review Detection Platform**
+
+An AI-powered platform designed to help users identify **fake and genuine reviews**.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnadani/TrustLens)
 
 ---
 
-### Socials
+### 🎟️ EventX
 
-<p align="left">
-    <a href="https://github.com/krishnadani" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/krishnagdani/" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-    </a>
-    <a href="mailto:krishnagdani@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-    </a>
-    <a href="https://my-portfolio-website-green-alpha.vercel.app" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" />
-    </a>
+**Event Registration & Management Platform**
+
+A complete event registration system for creating events, uploading flyers, sharing public registration links, managing attendees, and automatically sending tickets through email.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnadani/EventX)
+
+---
+
+### 🍳 RecipeWave
+
+**Recipe Discovery & Sharing Platform**
+
+Discover, share, and organize recipes through a simple social cooking platform.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnadani/recipewave)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge)](https://recipewave.vercel.app)
+
+---
+
+### 🌦️ WeatherNow
+
+**Real-Time Weather Application**
+
+A web application for checking real-time weather information.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnadani/weather-now)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge)](https://weather-now-lovat-five.vercel.app)
+
+---
+
+### 🧠 DSA-Leetcode
+
+**Data Structures & Algorithms Practice**
+
+A collection of solutions to algorithmic problems focused on improving **problem-solving, algorithms, and competitive programming skills**.
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishnadani/DSA-Leetcode)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnadani&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadani&layout=compact&hide_border=true&theme=react&langs_count=8" height="165" />
 </p>
 
+---
+
 ## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnadani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Krishna's GitHub streak stats" width="70%"/>
-</div>
 
-### My GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krishnadani&theme=react&hide_border=true&border_radius=10" alt="Krishna Dani GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnadani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Krishna's stats" width="70%"/>
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnadani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e" alt="Top Languages" width="70%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnadani&radius=16&theme=react&area=true&order=5&hide_border=true" alt="activity-graph" />
-</div>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnadani&theme=react-dark&hide_border=true&area=true" alt="Krishna Dani GitHub Activity Graph" />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive Programming
+* LeetCode Problem Solving
+* Algorithm Design
+* Time & Space Complexity
+* Object-Oriented Programming
+
+---
+
+## 🎯 Currently Focused On
+
+* ☕ Advanced Java & OOP
+* 🌱 Spring & Spring Boot
+* 🗄️ Hibernate & SQL
+* ⚛️ React & Modern Frontend Development
+* ☁️ AWS & Cloud Technologies
+* 🧠 Data Structures & Algorithms
+* 🏗️ Building production-ready full-stack applications
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/krishnadani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishnagdani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-website-green-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:krishnagdani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Build. Solve. Learn. Repeat.</i>
+</p>
