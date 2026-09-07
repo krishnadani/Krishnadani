@@ -226,43 +226,12 @@ A growing collection of solutions focused on **DSA, algorithms, complexity analy
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=krishnadani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    height="180"
-    alt="Krishna Dani GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadani&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    height="180"
-    alt="Krishna Dani Top Languages"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=krishnadani&theme=github-dark-blue&hide_border=true&border_radius=10"
     alt="Krishna Dani GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=krishnadani&theme=github-compact&hide_border=true&area=true&radius=8"
-    alt="Krishna Dani GitHub Contribution Activity"
   />
 </p>
 
