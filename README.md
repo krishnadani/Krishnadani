@@ -1,7 +1,7 @@
 <!--![Animation - 1736054663273](https://github.com/user-attachments/assets/65a14f3d-e79c-45ee-a619-a92688b3b944)-->
 # Hi!👋 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krishna Dani
 
-<h2>Frontend Developer | Problem Solver | Competitive Programmer</h2>
+<h2>Frontend Developer | Java FullStack Developer | Problem Solver | Competitive Programmer</h2>
 
 I love coding and I am always curious to learn new tech and level up my skills.
 
